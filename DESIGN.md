@@ -1,4 +1,6 @@
 CompSci 308 : RPS Design
+
+Contributors: aj168, blc14
 ===================
 
 > This is the link to the Lab Description: 
